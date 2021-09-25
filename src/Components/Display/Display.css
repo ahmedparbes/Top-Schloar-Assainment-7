@@ -1,0 +1,28 @@
+.thumb{
+    width: 200px;
+    margin-top: 7px;
+
+}
+.scholar-box{
+    
+    box-shadow: 1px 1px 11px 1px gray;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(221, 214, 215);
+}
+.btn{
+    background-color: rgb(76, 32, 178);
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    font-style: unset;
+}
+.fa-shopping-cart{
+    color: goldenrod;
+}
+.text-style{
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+}

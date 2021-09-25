@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Delwar Hossain Saidi",
+        "age": 60,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 34000,
+        "img": "https://farm8.staticflickr.com/7003/6524464897_64a0323c76_m.jpg"
+    },
+    {
+        "name": "Mizanur",
+        "age": 23,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 39000,
+        "img": "https://pbs.twimg.com/profile_images/1339920183159230467/wHDa21Gw_400x400.jpg"
+    },
+    {
+        "name": "Abu toha",
+        "age": 23,
+        "Education": "Horns",
+        "proffession": "Islamic Scholar",
+        "salary": 64000,
+        "img": "https://cdn.risingbd.com/media/imgAll/2021March/en/Adnan-2106180921.jpg"
+    },
+    {
+        "name": "Taheri",
+        "age": 40,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 54000,
+        "img": "https://www.daily-sun.com/assets/news_images/2019/09/03/mufti-taheri-daily-sun.jpg"
+    },
+    {
+        "name": "tareq manawer",
+        "age": 50,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 45000,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqWzPsa1H-Q1h4ygFTUQ-puOF5yJqC5mMpJuFcmpmHXPp67Mc9474yW-ZArm0MWS1CN4&usqp=CAU"
+    },
+    {
+        "name": "Dr Abdullah",
+        "age": 40,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 44000,
+        "img": "https://tafseerulquran.com/wp-content/uploads/2020/04/download-1.jpeg"
+    },
+    {
+        "name": "Tareq jameel",
+        "age": 60,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 23499,
+        "img": "https://i.ytimg.com/vi/7-bgwbA7Wes/maxresdefault.jpg"
+    },
+    {
+        "name": "Ustad Noman ali khan",
+        "age": 50,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 84000,
+        "img": "https://media-eng.dhakatribune.com/uploads/2017/09/17554196_1011250282341047_6997812027149433010_n.jpg"
+    },
+    {
+        "name": "Ahmadullah",
+        "age": 36,
+        "Education": "PHD",
+        "proffession": "Islamic Scholar",
+        "salary": 84000,
+        "img": "http://i0.wp.com/imuslimbd.com/wp-content/uploads/2020/07/ahmadulla1h.png"
+    }
+]
