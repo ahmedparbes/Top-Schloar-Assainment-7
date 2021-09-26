@@ -8,7 +8,7 @@ const Total = (props) => {
     let image = ''
     for (const scholar of counts) {
         total = total + scholar.salary;
-        name = name + scholar.name;
+        name = name + scholar.name + ' ';
         image = image + scholar.img;
 
     }
