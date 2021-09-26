@@ -5,12 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
- - Item 1
-- Item 2
-  - Sub Item 1
-  - Sub Item 2
-   
-#^ two spaces
+- Here you can find top Scholars.
+-  Total Budgets.
+-  Education Qualifications. 
 
 ### `yarn start`
 
