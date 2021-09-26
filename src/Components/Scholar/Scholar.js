@@ -15,12 +15,14 @@ const Scholar = () => {
     const clickHandle = (scholar) => {
         const newCount = [...count, scholar];
         setCount(newCount);
+        document.getElementById('set-name-img').style.display = 'flex';
     }
     return (
         <div className="container">
             <div className="details">
                 {
                     scholars.map(scholar => <Display schloar={scholar}
+                        key={scholar.name}
                         clickHandle={clickHandle}>
 
                     </Display>)

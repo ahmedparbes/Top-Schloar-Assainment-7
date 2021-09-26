@@ -14,6 +14,11 @@ const Display = (props) => {
             <p><small>Salary : {salary}</small></p>
             <p>Education : {Education}</p>
             <button onClick={() => props.clickHandle(props.schloar)} className=" btn fas fa-shopping-cart" > <span className="text-style">Add to Cart</span></button>
+            <br />
+            <div className="social-icon">
+                <h4 className="fab fa-facebook"></h4>
+                <h4 className="fab fa-twitter"></h4>
+            </div>
 
         </div>
     );

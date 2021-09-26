@@ -1,6 +1,31 @@
 .name{
-  border: 1px solid;
     text-align: center;
-    margin: 10px;
-    background-color: rgb(221, 214, 215);
+    margin-left: 30px;
+    font-size: 18px;
+}
+#set-name-img{
+  background: rgb(2,0,36);
+  display: flex;
+  display: none;
+  height: 50px;
+  width: 300px;
+  border-radius: 10px;
+
+  
+}
+#set-name-img img{
+  width: 100px;
+}
+#set-name-img p{
+  color: white;
+  margin-bottom: 10px;
+}
+
+.fab{
+  font-size: 20px;
+  padding: 5px;
+  margin-right: 10px;
+  background-color: rgb(8, 6, 85);
+  color: white;
+  border-radius: 5px;
 }

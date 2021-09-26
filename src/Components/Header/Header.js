@@ -10,7 +10,9 @@ const Header = () => {
                 <a href="">Contact</a>
                 <a href="">Privacy</a>
             </div>
+            <h2>A conference of Heaven</h2>
             <h2>Total Cost : 12 Million USD</h2>
+
         </div>
     );
 };
