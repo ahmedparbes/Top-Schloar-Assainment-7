@@ -4,12 +4,14 @@
     font-size: 18px;
 }
 #set-name-img{
-  background: rgb(2,0,36);
+  /* background: rgb(2,0,36); */
   display: flex;
   display: none;
   height: 50px;
   border-radius: 10px;
-
+  margin-top: 6px;
+  padding: 5px;
+  border: 2px solid;
   
 }
 #set-name-img img{
