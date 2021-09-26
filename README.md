@@ -1,6 +1,6 @@
 # Getting Started with Top Scholar of All time.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://scholars-site.netlify.app/).
 
 ## Available Scripts
 
